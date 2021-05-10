@@ -1,4 +1,4 @@
-SEQUENCIA PARA CRIAR O PROJETO
+Sequence to running this project
 
 ### npm init
 
